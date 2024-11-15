@@ -28,7 +28,6 @@
 ## 🎯 Current Focus  
 
 - 🔍 Building efficient and scalable web applications  
-- 🧠 Learn advanced TypeScript patterns 
 - 🧠 Learning Next.js  
 - ⚡️ Checking web performance optimization 
 
